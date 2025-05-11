@@ -29,8 +29,8 @@ motivation-flask-app
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd motivation-flask-app
+   git clone https://github.com/sparknet-innovations/motivation-web-app.git
+   cd motivation-web-app
    ```
 
 2. **Create a Virtual Environment**
