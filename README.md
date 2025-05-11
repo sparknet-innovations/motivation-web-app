@@ -5,7 +5,7 @@ The Motivation Flask App is a web application designed to uplift and inspire ind
 
 ## Project Structure
 ```
-motivation-flask-app
+motivation-web-app
 ├── app
 │   ├── __init__.py
 │   ├── routes.py
